@@ -51,6 +51,7 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="README.md" />
+    <None Include="RETROSPECTIVE-2025-07-14.md" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
